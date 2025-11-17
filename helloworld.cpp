@@ -109,3 +109,13 @@ double withdraw(){
         return amount_w;
     }
 }
+
+/*  i did not use ai for this, please do not think it is ai
+    just because of the comments, bad coding, and chatgpt-like text.
+    cant a human do that too? cant a human add comments for people to understand the code?
+    cant a beginner C++ programmer write bad-looking code?
+    and cant a human write text similar to how ai writes?
+
+    either way, thank you for reading all of this i wrote, and goodbye!
+    may God bless you all a ton!
+*/
